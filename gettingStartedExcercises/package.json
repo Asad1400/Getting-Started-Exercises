@@ -1,0 +1,11 @@
+{
+  "name": "gettingstartedexcercises",
+  "version": "1.0.0",
+  "description": "getting started excercises comprising of 45 Questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Asad Ullah",
+  "license": "MIT"
+}
